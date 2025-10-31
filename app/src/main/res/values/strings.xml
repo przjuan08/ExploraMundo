@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ExploraMundo</string>
+    <string name="title_main">Agencia de Viajes Virtual</string>
+    <string name="title_lista_paises">Países de %s</string>
+    <string name="title_detalle_pais">Detalles del Viaje</string>
+
+    <!-- Mensajes -->
+    <string name="cargando">Cargando aventuras...</string>
+    <string name="error_conexion">Error de conexión. Verifica tu internet.</string>
+    <string name="error_general">Ocurrió un error inesperado.</string>
+    <string name="sin_datos">No se encontraron datos.</string>
+    <string name="seleccionar_region">Selecciona una región para explorar</string>
+
+    <!-- Botones -->
+    <string name="btn_explorar">Explorar Destinos</string>
+    <string name="btn_ver_clima">Ver Clima Actual</string>
+
+    <!-- Labels -->
+    <string name="label_region">Región</string>
+    <string name="label_subregion">Subregión</string>
+    <string name="label_poblacion">Población</string>
+    <string name="label_capital">Capital</string>
+    <string name="label_moneda">Moneda</string>
+    <string name="label_idioma">Idioma</string>
+    <string name="label_clima">Clima Actual</string>
+    <string name="label_temperatura">Temperatura</string>
+    <string name="label_humedad">Humedad</string>
+    <string name="label_viento">Viento</string>
+    <string name="label_condicion">Condición</string>
+</resources>

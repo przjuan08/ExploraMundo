@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Globo -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1.2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M10.5,2a8.5,8.5 0 1,0 0,17a8.5,8.5 0 1,0 0,-17z" />
+
+    <!-- Meridiano vertical -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1.2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M10.5,2c-3,2 -3,13 0,17c3,-2 3,-13 0,-17" />
+
+    <!-- Meridiano horizontal -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1.2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M2.7,10.5h15.6" />
+
+    <!-- Lupa -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1.2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M15,15l4,4" />
+
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1.2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M12.5,12.5a3,3 0 1,0 6,0a3,3 0 1,0 -6,0z" />
+</vector>
